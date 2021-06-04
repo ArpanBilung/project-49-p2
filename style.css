@@ -1,0 +1,26 @@
+h1 { 
+    color: goldenrod; 
+ }
+ /* * { 
+    border:solid;
+ } */
+ .header{
+     background-color: skyblue;
+     display:flex;
+     
+  justify-content:space-between;
+ 
+  
+ }
+ .grid{
+     display:flex;
+     flex-wrap: wrap;
+     justify-content:space-evenly;
+ }
+ p,h2{
+    text-align:center;
+   
+}
+body{
+background: color #808080;   ;
+}
